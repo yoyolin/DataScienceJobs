@@ -1,0 +1,206 @@
+c++
+marketing
+marketing data
+communication
+database
+machine learning
+statistical
+python
+computer science
+statistics
+programming
+modelling
+r
+big data
+algorithm
+data analysis
+hadoop
+testing
+c
+java
+bachelor
+microsoft
+quantitative
+financial
+data science
+problem solving
+security
+mathematics
+code
+metric
+social
+ad
+optimization
+predictive
+data mining
+business process
+architecture
+bioinformatics
+agile
+masters
+infrastructure
+tableau
+project management
+business requirement
+business intelligence
+interpersonal
+written communication
+distributed
+hive
+large scale
+server
+dashboard
+phd
+visualization
+visualizations
+oracle
+powerpoint
+analytical skill
+digital marketing
+data warehouse
+data management
+statistical analysis
+large data
+optimize
+business analysis
+microsoft office
+deliverable
+data modeling
+sql server
+data processing
+deep learning
+physics
+mathematical
+google analytics
+mapreduce
+prototype
+cassandra
+social media
+data pipeline
+classification
+sap
+unix
+learning algorithm
+cutting edge
+architect
+spss
+kafka
+salesforce
+stack
+use case
+javascript
+storage
+software engineering
+experience sql
+data warehousing
+visual
+operation research
+programming language
+quantitative field
+redshift
+scripting language
+microsoft excel
+mongodb
+apache
+data platform
+learn new
+language processing
+data integration
+ruby
+acumen
+statistical modeling
+apis
+pivot
+sharepoint
+clustering
+visio
+cluster
+tuning
+marketing analytics
+banking
+market research
+spreadsheet
+distributed system
+applied methametics
+artificial intelligence
+database design
+git
+multivariate
+neural network
+supply chain
+business acumen
+teradata
+mba
+computer vision
+operating system
+hoc analysis
+xml
+ssrs
+matlab
+scikit
+probabilistic
+ai
+ml
+spark
+kaggle
+regression
+time series
+shell
+cloud
+cloud computing
+pig
+q
+automobile
+tech
+electrical engineering
+julia
+pandas
+tree
+survival analysis
+forecasting
+anomaly detection
+d3
+js
+user behavior
+php
+perl
+hypothesis testing
+stream
+nlp
+pharmaceutical
+large scale
+computational biology
+speech recognition
+recommendations
+recommendation systems
+recommender systems
+forecasting
+multimodal learning
+unsupervised
+supervised
+scala
+zookeeper
+flume
+mahout
+hbase
+nosql
+sas
+weka
+mysql
+numpy
+scipy
+advanced machine
+android
+automated
+linear
+matplotlib
+natural
+simulation
+criminal
+drug
+experimental
+fraud
+genomics
+methodologies
+vba
+c/c++
