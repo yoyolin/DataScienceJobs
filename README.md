@@ -13,3 +13,7 @@ https://github.com/yoyolin/DataScienceJobs/blob/master/dataJobs_v3_featured.csv
 
 Jupyter Notebook could be viewed from: 
 http://nbviewer.jupyter.org/github/yoyolin/DataScienceJobs/blob/master/submit.ipynb
+
+Potential source:
+https://pypi.python.org/pypi/lda
+https://jessesw.com/Data-Science-Skills/
